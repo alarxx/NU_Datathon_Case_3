@@ -1,5 +1,5 @@
 # NU_Datathon_Case_3
-https://www.canva.com/design/DAFxTkZznBU/f76QGPRir3Rouba-tovQsw/view
+https://www.canva.com/design/DAFxTkZznBU/f76QGPRir3Rouba-tovQsw/view  
 Выявление поддельных автомобилей
 
 ### Description
