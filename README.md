@@ -1,6 +1,6 @@
 # NU_Datathon_Case_3
 Выявление поддельных автомобилей
-
+Team name: ZhmemPoSto
 Date: 14-15 October 2023
 
 ### Models tested
