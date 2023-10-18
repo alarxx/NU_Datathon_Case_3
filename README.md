@@ -1,6 +1,11 @@
 # NU_Datathon_Case_3
-https://www.canva.com/design/DAFxTkZznBU/f76QGPRir3Rouba-tovQsw/view  
 Выявление поддельных автомобилей
+
+### Kaggle 
+https://www.kaggle.com/competitions/case3-datasaur-photo/data
+
+### Presentation 
+https://www.canva.com/design/DAFxTkZznBU/f76QGPRir3Rouba-tovQsw/view  
 
 ### Description
 Необходимо обучить модель для выявления поддельных фотографий автотранспорта, так как люди ежегодно пытаются избежать технического осмотра, применяя методы подделки, такие как фотошоп и другие.
