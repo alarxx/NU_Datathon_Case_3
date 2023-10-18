@@ -4,7 +4,7 @@
 Date: 14-15 October 2023
 
 ### Models tested
-Keras: Simple CNN
+Keras: Simple CNN  
 Pytorch: Simple CNN, VGG16, VGG19, EfficientNet B0, EfficientNet B1
 
 ### Kaggle 
