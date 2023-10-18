@@ -3,6 +3,10 @@
 
 Date: 14-15 October 2023
 
+### Models tested
+Keras: Simple CNN
+Pytorch: Simple CNN, VGG16, VGG19, EfficientNet B0, EfficientNet B1
+
 ### Kaggle 
 https://www.kaggle.com/competitions/case3-datasaur-photo/data
 
