@@ -1,6 +1,8 @@
 # NU_Datathon_Case_3
 Выявление поддельных автомобилей
 
+Date: 14-15 October 2023
+
 ### Kaggle 
 https://www.kaggle.com/competitions/case3-datasaur-photo/data
 
